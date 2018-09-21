@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="wsymb2_light_rain_showers.svg"
+   inkscape:export-filename="C:\Users\niclas\dev\vadret-assets\dist\rect993-4-8-2.png"
+   inkscape:export-xdpi="23.74"
+   inkscape:export-ydpi="23.74">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#9d9d9d"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-1519.2372"
+     inkscape:cy="835.7059"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="1147"
+     inkscape:window-y="839"
+     inkscape:window-maximized="1"
+     showborder="false"
+     showguides="false"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="wsymb2_light_rain_showers"
+       inkscape:label="#g4836">
+      <rect
+         ry="0"
+         y="-1.5628886"
+         x="-398.57028"
+         height="135.46666"
+         width="135.46666"
+         id="rect4547"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.44730067;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g4824">
+        <path
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.33900881;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m -333.55622,16.693542 a 24.087861,27.021545 0 0 0 -22.98618,18.957242 20.576404,23.082427 0 0 0 -4.34794,-0.534375 20.576404,23.082427 0 0 0 -20.57651,23.082222 20.576404,23.082427 0 0 0 9.46822,19.429209 h 83.85871 a 17.944649,20.130146 0 0 0 7.93286,-16.684362 17.944649,20.130146 0 0 0 -16.23863,-20.034423 17.944649,20.130146 0 0 0 -17.71084,-16.961383 17.944649,20.130146 0 0 0 -2.77629,0.255621 24.087861,27.021545 0 0 0 -16.6234,-7.509751 z"
+           id="path825-9-5-5"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\niclas\dev\vadret-assets\dist\rect993-4-8-2.png"
+           inkscape:export-xdpi="23.74"
+           inkscape:export-ydpi="23.74" />
+        <g
+           id="g4794"
+           transform="translate(7.7742984,-55.225073)">
+          <g
+             transform="translate(6.1739261,23.011906)"
+             id="g4765">
+            <rect
+               style="fill:#759fe6;fill-opacity:1;stroke-width:0.19169627"
+               id="rect3882-6"
+               width="19.53553"
+               height="4.6410937"
+               x="-262.44989"
+               y="-260.44495"
+               ry="2.1513138"
+               transform="rotate(-66.515819)" />
+            <rect
+               style="fill:#759fe6;fill-opacity:1;stroke-width:0.19169627"
+               id="rect3882-6-2"
+               width="19.53553"
+               height="4.6410937"
+               x="-269.42929"
+               y="-246.51712"
+               ry="2.1513138"
+               transform="rotate(-66.515819)" />
+          </g>
+          <g
+             id="g4765-2"
+             transform="translate(-22.602319,23.174779)">
+            <rect
+               style="fill:#759fe6;fill-opacity:1;stroke-width:0.19169627"
+               id="rect3882-6-7"
+               width="19.53553"
+               height="4.6410937"
+               x="-262.44989"
+               y="-260.44495"
+               ry="2.1513138"
+               transform="rotate(-66.515819)" />
+            <rect
+               style="fill:#759fe6;fill-opacity:1;stroke-width:0.19169627"
+               id="rect3882-6-2-0"
+               width="19.53553"
+               height="4.6410937"
+               x="-269.42929"
+               y="-246.51712"
+               ry="2.1513138"
+               transform="rotate(-66.515819)" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

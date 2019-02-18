@@ -43,33 +43,33 @@ Icon packages for the [Vädret app](https://github.com/vadret/android).
 
 #### wsymb2
 
-* [x] wsymb2_clear_sky
-* [x] wsymb2_nearly_clear_sky
-* [x] wsymb2_variable_cloudiness
-* [x] wsymb2_halfclear_sky
-* [x] wsymb2_cloudy_sky
-* [x] wsymb2_overcast
-* [x] wsymb2_fog
-* [x] wsymb2_light_rain_showers
-* [x] wsymb2_moderate_rain_showers
-* [x] wsymb2_heavy_rain_showers
-* [x] wsymb2_thunderstorm
-* [x] wsymb2_thunder
-* [x] wsymb2_light_sleet_showers
-* [x] wsymb2_moderate_sleet_showers
-* [x] wsymb2_heavy_sleet_showers
-* [x] wsymb2_light_snow_showers
-* [x] wsymb2_moderate_snow_showers
-* [x] wsymb2_heavy_snow_showers
-* [x] wsymb2_light_rain
-* [x] wsymb2_moderate_rain
-* [x] wsymb2_heavy_rain
-* [x] wsymb2_light_sleet
-* [x] wsymb2_moderate_sleet
-* [x] wsymb2_heavy_sleet
-* [x] wsymb2_light_snowfall
-* [x] wsymb2_moderate_snowfall
-* [x] wsymb2_heavy_snowfall
+- wsymb2_clear_sky
+- wsymb2_nearly_clear_sky
+- wsymb2_variable_cloudiness
+- wsymb2_halfclear_sky
+- wsymb2_cloudy_sky
+- wsymb2_overcast
+- wsymb2_fog
+- wsymb2_light_rain_showers
+- wsymb2_moderate_rain_showers
+- wsymb2_heavy_rain_showers
+- wsymb2_thunderstorm
+- wsymb2_thunder
+- wsymb2_light_sleet_showers
+- wsymb2_moderate_sleet_showers
+- wsymb2_heavy_sleet_showers
+- wsymb2_light_snow_showers
+- wsymb2_moderate_snow_showers
+- wsymb2_heavy_snow_showers
+- wsymb2_light_rain
+- wsymb2_moderate_rain
+- wsymb2_heavy_rain
+- wsymb2_light_sleet
+- wsymb2_moderate_sleet
+- wsymb2_heavy_sleet
+- wsymb2_light_snowfall
+- wsymb2_moderate_snowfall
+- wsymb2_heavy_snowfall
 
 ## License
 

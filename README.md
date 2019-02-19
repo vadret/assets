@@ -1,7 +1,7 @@
 # Assets
 Icon packages for the [Vädret app](https://github.com/vadret/android).
 
-![Vädret](https://raw.githubusercontent.com/vadret/assets/master/dist/logo.png)
+![Vädret](https://raw.githubusercontent.com/vadret/assets/master/dist/ic_launcher-web.png)
 
 # Dimensions
 

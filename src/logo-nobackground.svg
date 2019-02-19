@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="logo.svg"
+   sodipodi:docname="logo-nobackground.svg"
    inkscape:export-filename="C:\Users\niclas\dev\vadret-assets\dist\rect993-4-8-2.png"
    inkscape:export-xdpi="23.74"
    inkscape:export-ydpi="23.74">
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70000002"
-     inkscape:cx="-1778.3094"
-     inkscape:cy="460.76489"
+     inkscape:cx="-1899.2884"
+     inkscape:cy="468.59627"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -59,13 +59,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g828">
+       id="g8045">
       <path
-         style="opacity:1;fill:#6779ca;fill-opacity:1;stroke:none;stroke-width:0.49528855;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -397.38531,51.085323 h 150 V 201.08532 h -150 z"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.49528855;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -397.38531,51.085327 h 150 V 201.08533 h -150 z"
          id="rect4547" />
       <g
-         transform="matrix(1,0,0,1.0007723,-0.05552086,-0.75443041)"
+         transform="matrix(1,0,0,1.0007723,-0.05552086,-0.75442837)"
          id="g6154">
         <path
            style="fill:#acb3c6;fill-opacity:1;stroke:none;stroke-width:0.28118959px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

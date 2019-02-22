@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="droplet.svg"
+   sodipodi:docname="wsymb2_droplet.svg"
    inkscape:export-filename="C:\Users\niclas\dev\vadret-assets\dist\rect993-4-8-2.png"
    inkscape:export-xdpi="23.74"
    inkscape:export-ydpi="23.74">
@@ -186,7 +186,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-1954.0741"
+     inkscape:cx="-2142.0741"
      inkscape:cy="837.85468"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -230,7 +230,7 @@
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.175;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -474.87608,11.318582 c 0,0 28.01058,35.988511 22.78298,55.193298 -2.53953,9.329567 -8.53507,17.503587 -23.13082,17.503587 -14.59575,0 -20.30268,-8.076458 -22.78299,-17.279611 -5.20884,-19.327359 23.13083,-55.417274 23.13083,-55.417274 z"
-       id="droplet"
+       id="wsymb2_droplet"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cazac"
        inkscape:label="#rect2144" />

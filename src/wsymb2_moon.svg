@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="moon.svg"
+   sodipodi:docname="wsymb2_moon.svg"
    inkscape:export-filename="C:\Users\niclas\dev\vadret-assets\dist\rect993-4-8-2.png"
    inkscape:export-xdpi="23.74"
    inkscape:export-ydpi="23.74">
@@ -186,7 +186,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-2060.8259"
+     inkscape:cx="-2248.8259"
      inkscape:cy="872.55248"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -220,7 +220,7 @@
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:12.00000015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -1843.3984 -0.59960938 A 192.33303 192.33303 0 0 0 -2000.627 188.39453 A 192.33303 192.33303 0 0 0 -1808.293 380.72656 A 192.33303 192.33303 0 0 0 -1652.5352 300.91406 A 181.36158 181.36158 0 0 1 -1721.2969 314.60156 A 181.36158 181.36158 0 0 1 -1902.6582 133.23828 A 181.36158 181.36158 0 0 1 -1843.3984 -0.59960938 z "
        transform="scale(0.26458333)"
-       id="moon"
+       id="wsymb2_moon"
        inkscape:label="#path2212" />
   </g>
 </svg>

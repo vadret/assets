@@ -40,6 +40,11 @@ Icon packages for the [Vädret app](https://github.com/vadret/android).
 ![wsymb2_light_snowfall.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_light_snowfall.png)
 ![wsymb2_moderate_snowfall.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_moderate_snowfall.png)
 ![wsymb2_heavy_snowfall.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_heavy_snowfall.png)
+![wsymb2_sun.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_sun.png)
+![wsymb2_moon.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_moon.png)
+![wsymb2_droplet.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_droplet.png)
+![wsymb2_thermometer.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_thermometer.png)
+![wsymb2_wind.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_wind.png)
 
 #### wsymb2
 
@@ -70,6 +75,11 @@ Icon packages for the [Vädret app](https://github.com/vadret/android).
 - wsymb2_light_snowfall
 - wsymb2_moderate_snowfall
 - wsymb2_heavy_snowfall
+- wsymb2_sun
+- wsymb2_moon
+- wsymb2_droplet
+- wsymb2_thermometer
+- wsymb2_wind
 
 ## License
 

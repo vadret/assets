@@ -185,9 +185,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-2248.8259"
-     inkscape:cy="872.55248"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-2559.0225"
+     inkscape:cy="790.10492"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -216,11 +216,23 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:12.00000015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M -1843.3984 -0.59960938 A 192.33303 192.33303 0 0 0 -2000.627 188.39453 A 192.33303 192.33303 0 0 0 -1808.293 380.72656 A 192.33303 192.33303 0 0 0 -1652.5352 300.91406 A 181.36158 181.36158 0 0 1 -1721.2969 314.60156 A 181.36158 181.36158 0 0 1 -1902.6582 133.23828 A 181.36158 181.36158 0 0 1 -1843.3984 -0.59960938 z "
-       transform="scale(0.26458333)"
+    <g
        id="wsymb2_moon"
-       inkscape:label="#path2212" />
+       inkscape:label="#g1526">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:label="#path2212"
+         id="moon"
+         d="m -621.4519,0.46608088 a 50.888114,50.888114 0 0 0 -41.60007,50.00469912 50.888114,50.888114 0 0 0 50.88837,50.88785 50.888114,50.888114 0 0 0 41.21092,-21.117058 47.985251,47.985251 0 0 1 -18.1932,3.621484 47.985251,47.985251 0 0 1 -47.98518,-47.9857 47.985251,47.985251 0 0 1 15.67916,-35.41127512 z"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.17499995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="0"
+         y="-17.316196"
+         x="-683.25507"
+         height="135.46666"
+         width="135.46666"
+         id="rect4547"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.44730067;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
   </g>
 </svg>

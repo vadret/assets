@@ -185,9 +185,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-2142.0741"
-     inkscape:cy="837.85468"
+     inkscape:zoom="0.5"
+     inkscape:cx="-2273.3845"
+     inkscape:cy="686.78778"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -199,18 +199,7 @@
      showborder="false"
      showguides="true"
      inkscape:pagecheckerboard="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       position="-474.83103,220.76464"
-       orientation="1,0"
-       id="guide2168"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="-455.5609,246.2087"
-       orientation="0,1"
-       id="guide2170"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -227,12 +216,25 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.175;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -474.87608,11.318582 c 0,0 28.01058,35.988511 22.78298,55.193298 -2.53953,9.329567 -8.53507,17.503587 -23.13082,17.503587 -14.59575,0 -20.30268,-8.076458 -22.78299,-17.279611 -5.20884,-19.327359 23.13083,-55.417274 23.13083,-55.417274 z"
+    <g
        id="wsymb2_droplet"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cazac"
-       inkscape:label="#rect2144" />
+       inkscape:label="#g2289"
+       transform="translate(39.113612,8.9802561)">
+      <path
+         inkscape:label="#rect2144"
+         sodipodi:nodetypes="cazac"
+         inkscape:connector-curvature="0"
+         id="droplet"
+         d="m -581.43113,-8.1014392 c 0,0 41.10118,52.8075632 33.43049,80.9876122 -3.72637,13.689693 -12.52389,25.683802 -33.94089,25.683802 -21.41701,0 -29.79104,-11.850952 -33.43051,-25.355152 -7.64317,-28.359905 33.94091,-81.3162622 33.94091,-81.3162622 z"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.17499995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="0"
+         y="-22.994066"
+         x="-649.41132"
+         height="135.46666"
+         width="135.46666"
+         id="rect4547"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.44730067;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
   </g>
 </svg>

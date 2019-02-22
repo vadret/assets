@@ -36,11 +36,8 @@ for icon in src/wsymb2*.svg; do
     done
 done
 
-echo "Write to drawable.xml"
+#echo "Optimizing png's!"
 
-
-echo "Optimizing png's!"
-
-for f in $output/**/*.png; do
-    optipng -o 2 $f
-done
+#for f in $output/**/*.png; do
+#    optipng -o 2 $f
+#done

@@ -48,6 +48,7 @@ Icon packages for the [Vädret app](https://github.com/vadret/android).
 ![wsymb2_weather.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_weather.png)
 ![wsymb2_radar.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_radar.png)
 ![wsymb2_warning.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_warning.png)
+![wsymb2_settings.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_settings.png)
 
 #### wsymb2
 
@@ -86,6 +87,7 @@ Icon packages for the [Vädret app](https://github.com/vadret/android).
 - wsymb2_weather
 - wsymb2_radar
 - wsymb2_warning
+- wsymb2_settings
 
 ## License
 

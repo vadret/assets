@@ -50,6 +50,12 @@ Icon packages for the [Vädret app](https://github.com/vadret/android).
 ![wsymb2_warning.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_warning.png)
 ![wsymb2_settings.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_settings.png)
 
+###### Wind direction
+Composed by two layers, one arrow and one circle.
+![wsymb2_wind_direction_circle.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_wind_direction_circle.png)
+
+![wsymb2_wind_direction_arrow.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_wind_direction_arrow.png)
+
 #### wsymb2
 
 - wsymb2_clear_sky
@@ -88,6 +94,8 @@ Icon packages for the [Vädret app](https://github.com/vadret/android).
 - wsymb2_radar
 - wsymb2_warning
 - wsymb2_settings
+- wsymb2_wind_direction_arrow
+- wsymb2_wind_direction_circle
 
 ## License
 

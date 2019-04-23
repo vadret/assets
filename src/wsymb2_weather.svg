@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="wsymb2_weather_icon.svg"
+   sodipodi:docname="wsymb2_weather.svg"
    inkscape:export-filename="C:\Users\niclas\dev\vadret-assets\dist\rect993-4-8-2.png"
    inkscape:export-xdpi="23.74"
    inkscape:export-ydpi="23.74">
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,7 +60,10 @@
      id="layer1">
     <g
        id="wsymb2_weather"
-       inkscape:label="#g4387">
+       inkscape:label="#g4387"
+       inkscape:export-filename="/home/niclas/wsymb2_weather.png"
+       inkscape:export-xdpi="43.349998"
+       inkscape:export-ydpi="43.349998">
       <path
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.49528855;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m -397.38531,51.085326 h 150 V 201.08533 h -150 z"

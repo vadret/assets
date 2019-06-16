@@ -43,8 +43,10 @@ Icon packages for the [Vädret app](https://github.com/vadret/android).
 ![wsymb2_sun.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_sun.png)
 ![wsymb2_moon.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_moon.png)
 ![wsymb2_droplet.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_droplet.png)
+![wsymb2_droplet_fill.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_droplet_fill.png)
 ![wsymb2_thermometer.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_thermometer.png)
 ![wsymb2_wind.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_wind.png)
+![wsymb2_wind_fill.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_wind_fill.png)
 ![wsymb2_weather.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_weather.png)
 ![wsymb2_radar.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_radar.png)
 ![wsymb2_warning.png](https://raw.githubusercontent.com/vadret/assets/master/dist/drawable-xhdpi/wsymb2_warning.png)
@@ -83,8 +85,10 @@ Icon packages for the [Vädret app](https://github.com/vadret/android).
 - wsymb2_sun
 - wsymb2_moon
 - wsymb2_droplet
+- wsymb2_droplet_fill
 - wsymb2_thermometer
 - wsymb2_wind
+- wsymb2_wind_fill
 - wsymb2_weather
 - wsymb2_radar
 - wsymb2_warning
